@@ -1,0 +1,4 @@
+matplotlib==3.5.2
+pandas==1.4.2
+pyppeteer==1.0.2
+pyppeteer_stealth==2.7.3
