@@ -5,5 +5,8 @@ Asynchronous web scraper for IndieGala.
 * Ability to save and plot final data
 * scrape_using_regex as a variation that uses regular expressions instead of Pyppeteer's evaluate method
 
-### Disclaimer
-**This project was for demonstration/learning purposes only. I am not liable for any consequences resulting from its use.**
+---
+
+## Disclaimer
+**This project was for demonstration/learning purposes only.
+I am not liable for any consequences resulting from its use.**
